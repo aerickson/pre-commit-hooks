@@ -88,6 +88,13 @@
   language: ruby
   types: ['ruby']
 
+- id: standardrb
+  name: Format Ruby code with standardrb
+  description: Format Ruby code with standardrb
+  entry: run-standardrb
+  language: ruby
+  types: ['ruby']  
+
 - id: shellcheck
   name: Test shell scripts with shellcheck
   description: Shell scripts conform to shellcheck
