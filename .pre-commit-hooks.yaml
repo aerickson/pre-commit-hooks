@@ -91,7 +91,7 @@
 - id: standardrb
   name: Format Ruby code with standardrb
   description: Format Ruby code with standardrb
-  entry: run-standardrb
+  entry: standardrb --fix
   language: ruby
   types: ['ruby']  
 
