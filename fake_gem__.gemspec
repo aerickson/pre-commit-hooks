@@ -23,6 +23,5 @@ Gem::Specification.new do |s|
     'run-mdl',
     'run-reek',
     'run-rubocop',
-    'run-standardrb',
   ]
 end
