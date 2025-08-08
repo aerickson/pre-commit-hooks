@@ -122,3 +122,10 @@
   language: script
   entry: pre_commit_hooks/shfmt
   types: [shell]
+
+- id: rufo
+  name: Format Ruby code with rufo
+  description: Format Ruby code with rufo
+  entry: rufo
+  language: ruby
+  types: ['ruby']
